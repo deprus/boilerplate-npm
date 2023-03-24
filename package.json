@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Denis Polochkin",
+  "description": "Node.js FCC tutorial",
   "dependencies": {
     "express": "^4.14.0"
   },
